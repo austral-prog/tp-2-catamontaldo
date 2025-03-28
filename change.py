@@ -12,4 +12,3 @@ def change():
     print(y)
     print("Centavos:")
     print(int((x - y)*100))
-change()
